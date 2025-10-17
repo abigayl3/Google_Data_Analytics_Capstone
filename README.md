@@ -101,17 +101,35 @@ Here is a snapshot of the [Tableau Dashboard:](https://public.tableau.com/app/pr
 ## Recommendations
 
 #### Strategy 1: “Experience Chicago with Cyclistic”
-By capitalizing on the observations that their busiest season is the summer, casual riders use the service for more recreational purposes and the knowledge of their most popular stations, Cyclistic can offer exclusive deals to members from May to August, in partnership with nearby popular destinations. For example, the most popular station used amongst casual riders is Streeter Dr & Grand Ave, and they can partner with near by restaurants/activties. This strategy would not only promote specific bike paths/routes and activities to explore the city of Chicago, but also create a mutually beneficial relationship between Cyclistic and its partners. Both parties would be able to advertise the partnership to their respective customer bases, while Cyclistic members receive discounts at these establishments.
+With the following observations and assumptions:
+1. The busiest season is the summer
+2. Casual riders ride more on the weekends, and travel to more locations arround the shoreline. The assumption that casual riders use the service for more recreational purposes.
+3. The most popular station is Streeter Dr & Grand Ave
+   
+Cyclistic can offer exclusive deals to members from May to August, in partnership with nearby popular destinations. For example, the most popular station used amongst casual riders is Streeter Dr & Grand Ave, and they can partner with near by restaurants/activties.
 
-This approach aligns with Cyclistic’s objective of appealing to the behaviors of casual riders while incentivizing them to use their services throughout the whole week, justifying the need for membership. Through targeted marketing campaigns on social media channels, Cyclistic can highlight these exclusive deals as a unique opportunity to support local businesses while enjoying the benefits of membership.
+Additionally to extend engagement beyond the summer, Cyclistic can highlight seasonsal experiences in the spring and fall, while offering smaller promotions during these less busy months. These efforts encourage year-round ridership and promotes the value of annual memberships compared to monthly/day trip passes.
+
+This strategy would not only promote specific bike paths/routes and activities to explore the city of Chicago, but also create a mutually beneficial relationship between Cyclistic and its partners. Both parties would be able to advertise the partnership to their respective customer bases, while Cyclistic members receive discounts at these establishments.
+
+This approach aligns with Cyclistic’s objective of appealing to the behaviors of casual riders while incentivizing them to use their services throughout the whole week & less busy months to explore Chicago, justifying the need for membership. Through targeted marketing campaigns on social media channels, Cyclistic can highlight these exclusive deals as a unique opportunity to support local businesses while enjoying the benefits of membership.
 
 
 #### Strategy 2: Benefits
-Cyclistic can create targeted advertisements promoting the benefits of becoming a member based on the behavior of casual riders in the spring & summer seasons. Cyclistics can leverage digital media such as social media channels for these advertisements and possibly use SMS and email marketing. However, it should be noted that specific marketing channels should be used based on the effectiveness of previous marketing campaigns.
+Based on the following findings:
+1. Casual riders are most active during the summer months
+2. Casual riders tend to use the services more on weekends, and during midday/evening hours
+3. Casual riders slightly prefer electric bikes more, possibly indicating more interest in convenience/accessibility
 
-The targeted advertisements can highlight the convenience and availability of electric bikes throughout the whole week, including peak times in the evening, the ease of accessing Cyclistic’s services without payment for each ride, & unlimited rides and ride time without additional fees for longer rides. These benefits would appeal to the behaviour of casual riders, incentivizing them to become members and further promoting customer retention. 
+Cyclistic can leverage these insights to create targeted digital advertisements promoting the benefits of becoming a member based on the behavior of casual riders in the spring & summer seasons. 
+- The ads can run on social media channels and travel platforms during spring and summer to reach riders when they're most active
+- SMS and email campaigns can be scheduled during peak hours and weekends
+
+The targeted advertisements can highlight the convenience and availability of electric bikes throughout the whole week, the ease of accessing Cyclistic’s services without payment for each ride, & unlimited rides and ride time without additional fees for longer rides. These benefits would appeal to the behaviour of casual riders, incentivizing them to become members and further promoting customer retention. 
 
 #### Bonus Strategy: Understand rider values
-To gain further insight into customer values and factors that influence their decisions, Cyclistic can offer a free ride pass or a chance to win a free month of rides to casual riders who complete a survey pertaining to their experience with the service. This would not only provide valuable data to improve the user experience but also incentivize casual riders to become more engaged with the service and consider the option for membership in the future. The survey could be advertised at the end of each ride purchase receipt all year round. This data would be most useful when promoting the benefits as part of strategy 2 to push which factors have the most influence.
+To gain further insight into customer values and factors that influence their decisions, Casual riders can be offered a free ride pass or entered into a chance to win a free month of rides to those riders who complete a survey about their experience with the service. This would not only provide valuable data to improve the user experience but also incentivize casual riders to become more engaged with the service and consider the option for membership in the future. The survey could be advertised at the end of each ride purchase receipt year-round and through confirmation/follow up emails. This would allow Cyclistic to identify what factors influence casual riders decisions, such as their attitudes towards convenience, perceived value, price sensitivity etc.
+
+This data would be most useful when promoting the benefits as part of strategy 2 to push which factors have the most influence.
 
 With focusing on targeted promotions and partnerships, Cyclistic can aim towards increasing the conversion rate to annual memberships and drive business growth.
